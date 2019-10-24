@@ -1,6 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# compiled output1
+# compiled output bu da ikinci değişiklik
 /dist
 /tmp
 /out-tsc
